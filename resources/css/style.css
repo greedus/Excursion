@@ -9,6 +9,16 @@ font-family: verdana, sans-serif;
     font-weight: normal;
     color: white;
  }
+ .header--secondary{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+ }
+ .header--subheader{
+    font-size: 21px;
+    font-weight: 300;
+    color: grey;
+ }
  
  .link--cta{
    font-size: 16px;
